@@ -12,7 +12,7 @@ Small scope 2D projects made in Construct 2. My first games.
 
 <!--- # "Verify icons availability here https://github.com/tandpfun/skill-icons" -->
 
-[![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,git)](https://skillicons.dev)
 
 ## Getting Started
 
