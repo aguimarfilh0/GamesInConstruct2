@@ -24,7 +24,7 @@ Small scope 2D projects made in Construct 2. My first games.
 
 <h2 id="demonstration">🎥 Demonstration</h2>
 
-🎥 You can watch the demo videos for each project, located in the [DemonstrationVideos](https://github.com/aguimarfilh0/GamesInUnity/tree/main/DemonstrationVideos) folder.
+🎥 You can watch the demo videos for each project, located in the [DemonstrationVideos](https://github.com/aguimarfilh0/GamesInConstruct2/tree/main/DemonstrationVideos) folder.
 
 <br>
 
