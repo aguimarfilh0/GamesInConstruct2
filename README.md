@@ -14,12 +14,19 @@ Small scope 2D projects made in Construct 2. My first games.
 <details open="open">
 <summary>Table of Contents</summary>
   
+- [🎥 Demonstration](#demonstration)
 - [🚀 Getting Started](#started)
   - [⚙️ Prerequisites](#prerequisites)
   - [🛠️ Run Projects in Construct 2](#runconstruct2)
 - [📄 Licenses](#licenses)
   
 </details>
+
+<h2 id="demonstration">🎥 Demonstration</h2>
+
+🎥 You can watch the demo videos for each project, located in the [DemonstrationVideos](https://github.com/aguimarfilh0/GamesInUnity/tree/main/DemonstrationVideos) folder.
+
+<br>
 
 <h2 id="started">🚀 Getting Started</h2>
 
@@ -34,8 +41,6 @@ The following software must be installed and configured:
 
 1. Download ‘Construct 2’ and run it.
 2. After running ‘Construct 2’, choose and open a project in it.
-
-Note: You can also watch the demo videos for each project, located in the 'DemonstrationVideos' folder.
 
 <h2 id="licenses">📄 Licenses</h2>
 
