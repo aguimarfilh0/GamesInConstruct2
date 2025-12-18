@@ -7,7 +7,8 @@ Small scope 2D projects made in Construct 2. My first games.
 <h2>Tech Stack</h2>
 
 <!--- # "Verify icons availability here https://github.com/tandpfun/skill-icons" -->
-[![My Skills](https://skillicons.dev/icons?i=github,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,git)](https://skillicons.dev) 
+<img src="https://construct-static.com/images/v1573/uploads/articleuploadobject/0/images/2396/construct2.png" width="40" height="40" alt="Construct 2">
 
 <br>
 
@@ -24,7 +25,9 @@ Small scope 2D projects made in Construct 2. My first games.
 
 <h2 id="demonstration">🎥 Demonstration</h2>
 
-🎥 You can watch the demo videos for each project, located in the [DemonstrationVideos](https://github.com/aguimarfilh0/GamesInConstruct2/tree/main/DemonstrationVideos) folder.
+🎥 Watch gameplay videos for each project:
+- [Infinite Space Project](https://youtu.be/PofwbPwM1cM)
+- [Project Apollo XI](https://youtu.be/es5jz86vnqc?si=NrOLCQ1Dpougf2SK)
 
 <br>
 
@@ -41,6 +44,8 @@ The following software must be installed and configured:
 
 1. Download ‘Construct 2’ and run it.
 2. After running ‘Construct 2’, choose and open a project in it.
+
+<br>
 
 <h2 id="licenses">📄 Licenses</h2>
 
